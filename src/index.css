@@ -286,6 +286,7 @@ body,
 }
 
 .loading-container {
+  min-height: 235px;
   height: 100%;
   display: flex;
   flex-direction: column;
